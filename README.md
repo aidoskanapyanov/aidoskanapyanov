@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidos</h1>
 <h3 align="center">A passionate backend engineer/data scientist from Kazakhstan</h3>
 
-- 🔭 I’m currently working at [payfintech.kz](https://payfintech.kz)
+- 🔭 I’m currently working at [paycorp.kz](https://paycorp.kz)
 
 - 👨‍💻 All of my projects are available at [aidoskanapyanov](https://github.com/aidoskanapyanov?tab=repositories)
 
