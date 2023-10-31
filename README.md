@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aidos</h1>
 <h3 align="center">A passionate Full-Stack Developer (Next.js, React, Django, Node.js) from Kazakhstan</h3>
 
-- 🔭 I’m currently working at [paycorp.kz](https://paycorp.kz)
-
 - 👨‍💻 All of my projects are available at [aidoskanapyanov](https://github.com/aidoskanapyanov?tab=repositories)
 
 - 🌐 Checkout my personal website [here](https://aidosk.tech)
