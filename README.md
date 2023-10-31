@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aidos</h1>
-<h3 align="center">A passionate backend engineer/data scientist from Kazakhstan</h3>
+<h3 align="center">A passionate Full-Stack Developer (Next.js, React, Django, Node.js) from Kazakhstan</h3>
 
 - 🔭 I’m currently working at [paycorp.kz](https://paycorp.kz)
 
 - 👨‍💻 All of my projects are available at [aidoskanapyanov](https://github.com/aidoskanapyanov?tab=repositories)
 
-- 📫 How to reach me **aidos.kanapyanov@alumni.nu.edu.kz**
+- 🌐 Checkout my personal website [here](https://aidosk.tech)
+
+- 📫 How to reach me: email -> **aidos.kanapyanov@alumni.nu.edu.kz**, telegram -> [**aidos_k**](https://t.me/aidos_k)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,6 +48,30 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
