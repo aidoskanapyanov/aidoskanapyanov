@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aidos</h1>
-<h3 align="center">A passionate Full-Stack Developer (Next.js, React, Django, Node.js) from Kazakhstan</h3>
+<h3 align="center">A passionate Software Engineer (Next.js/React, Django/FastAPI/Flask, Node.js) from Kazakhstan</h3>
 
 - 👨‍💻 All of my projects are available at [aidoskanapyanov](https://github.com/aidoskanapyanov?tab=repositories)
 
-- 🌐 Checkout my personal website [here](https://aidosk.tech)
-
-- 📫 How to reach me: email -> **aidos.kanapyanov@alumni.nu.edu.kz**, telegram -> [**aidos_k**](https://t.me/aidos_k)
+- 📫 How to reach me: email -> **aidos.kanapyanov2@gmail.com**, telegram -> [**aidos_k**](https://t.me/aidos_k)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aidos-kanapyanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aidoskanapyanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pers1va1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
