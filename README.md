@@ -1,162 +1,65 @@
-<h1 align="center">Hi 👋, I'm Aidos</h1>
-<h3 align="center">A passionate Software Engineer (Next.js/React, Django/FastAPI/Flask, Node.js) from Kazakhstan</h3>
+# 👋 Hi there, I'm Aidos
+  
+## 🦸‍♂️ About me
 
-- 👨‍💻 All of my projects are available at [aidoskanapyanov](https://github.com/aidoskanapyanov?tab=repositories)
+I am a Software Engineer with 4+ years of experience, a mathematician at heart, a passionate learner and an open source enthusiast.
 
-- 📫 How to reach me: email -> **aidos.kanapyanov2@gmail.com**, telegram -> [**aidos_k**](https://t.me/aidos_k)
+I have in-depth experience working with modern web technologies, backend systems, and API design. My approach to software engineering emphasizes simplicity, scalability, and maintainability.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aidos-kanapyanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
+## 💼 Employer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg"
-      alt="fastapi"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png"
-      alt="celery"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"
-      alt="digitalocean"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+- Currently, I am a Software Engineer at [npck.kz](https://npck.kz/) in Astana office.
+
+## 💻 OSS and side projects
+
+When I have some spare time on weekends I contribute to open source, here are some of the contributions:
+
+- [Narwhals](https://github.com/narwhals-dev/narwhals/pulls?q=is%3Apr+involves%3Aaidoskanapyanov): an extremely lightweight compatibility layer between Polars, pandas, Modin, cuDF, pyarrow (and more!). I am a core maintainer since Apr. 2024. Narwhals has ~10M downloads a month.
+- [generative-ai-python](https://github.com/google-gemini/generative-ai-python/pulls?q=is%3Apr+is%3Amerged+author%3Aaidoskanapyanov): The official Python library for the Google Gemini API
+- [Pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Amerged+author%3Aaidoskanapyanov): Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
+- [VSCode GitLens](https://github.com/gitkraken/vscode-gitlens/pulls?q=involves%3Aaidoskanapyanov): Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+- [LangChain](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+involves%3Aaidoskanapyanov+is%3Amerged): 🦜🔗 Build context-aware reasoning applications
+
+## 📫 How to reach me
+
+The best way it to find me on [Linkedin](https://www.linkedin.com/in/aidos-kanapyanov/).
+
+## 🔧 Tech stack
+
+[<img height="40" width="40" src="https://cdn.simpleicons.org/python">](https://www.python.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/polars">](https://www.pola.rs/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/numpy">](https://numpy.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/scipy">](https://scipy.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/scikitlearn">](https://scikit-learn.org/stable/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pytorch">](https://pytorch.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pydantic">](https://docs.pydantic.dev/latest/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/fastapi">](https://fastapi.tiangolo.com/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/plotly">](https://plotly.com/python/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pytest">](https://docs.pytest.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/ruff">](https://beta.ruff.rs/docs/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pypi">](https://pypi.org/)
+
+<br>
+
+[<img height="40" width="40" src="https://cdn.simpleicons.org/rust">](https://www.rust-lang.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql">](https://www.postgresql.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/sqlite">](https://www.sqlite.org/index.html)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/presto">](https://prestodb.io/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/docker">](https://docs.docker.com/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/kubernetes">](https://kubernetes.io/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/linux">](https://www.linux.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/ubuntu">](https://ubuntu.com/) &nbsp;&nbsp;
+
+<br>
+
+[<img height="40" width="40" src="https://cdn.simpleicons.org/git">](https://git-scm.com/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/github">](https://github.com/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/githubactions">](https://github.com/features/actions) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/bitbucket">](https://bitbucket.org/product) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonwebservices">](https://aws.amazon.com/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/amazons3">](https://docs.aws.amazon.com/s3/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonec2">](https://docs.aws.amazon.com/ec2/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/amazoneks">](https://docs.aws.amazon.com/eks/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonrds">](https://docs.aws.amazon.com/rds/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/awslambda">](https://docs.aws.amazon.com/lambda/)
