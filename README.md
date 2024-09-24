@@ -15,7 +15,7 @@ I have in-depth experience working with modern web technologies, backend systems
 When I have some spare time on weekends I contribute to open source, here are some of the contributions:
 
 - [Narwhals](https://github.com/narwhals-dev/narwhals/pulls?q=is%3Apr+involves%3Aaidoskanapyanov): an extremely lightweight compatibility layer between Polars, pandas, Modin, cuDF, pyarrow (and more!). I am a core maintainer since Apr. 2024. Narwhals has ~10M downloads a month.
-- [generative-ai-python](https://github.com/google-gemini/generative-ai-python/pulls?q=is%3Apr+is%3Amerged+author%3Aaidoskanapyanov): The official Python library for the Google Gemini API
+- [Generative-ai-python](https://github.com/google-gemini/generative-ai-python/pulls?q=is%3Apr+is%3Amerged+author%3Aaidoskanapyanov): The official Python library for the Google Gemini API
 - [Pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+is%3Amerged+author%3Aaidoskanapyanov): Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
 - [VSCode GitLens](https://github.com/gitkraken/vscode-gitlens/pulls?q=involves%3Aaidoskanapyanov): Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 - [LangChain](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+involves%3Aaidoskanapyanov+is%3Amerged): 🦜🔗 Build context-aware reasoning applications
