@@ -20,7 +20,7 @@ When I have some spare time on weekends I contribute to open source, here are so
 - [Cookiecutter Django](https://github.com/cookiecutter/cookiecutter-django/pulls?q=involves%3Aaidoskanapyanov+is%3Amerged): Contributed a pull request to add Docker build caching on GitHub Actions, improving CI build times in the popular Django project template. :contentReference[oaicite:0]{index=0}
 - [VSCode GitLens](https://github.com/gitkraken/vscode-gitlens/pulls?q=involves%3Aaidoskanapyanov): Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 - [LangChain](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+involves%3Aaidoskanapyanov+is%3Amerged): 🦜🔗 Build context-aware reasoning applications
-- [django-rest-api-ci-cd-template](https://github.com/aidoskanapyanov/django-rest-api-ci-cd-template): A Django REST API template for scalable applications, featuring modern CI/CD, Docker Swarm deployments with zero‑downtime SSL, automated changelogs, dynamic OpenAPI/Swagger UI documentation, and integrated tests with coverage reports, artifacts, and badges.
+- [Django REST API CI CD Template](https://github.com/aidoskanapyanov/django-rest-api-ci-cd-template): A Django REST API template for scalable applications, featuring modern CI/CD, Docker Swarm deployments with zero‑downtime SSL, automated changelogs, dynamic OpenAPI/Swagger UI documentation, and integrated tests with coverage reports, artifacts, and badges.
 
 ## 📫 How to reach me
 
