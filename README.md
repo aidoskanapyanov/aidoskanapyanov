@@ -8,7 +8,7 @@ I have in-depth experience working with modern web technologies, backend systems
 
 ## 💼 Employer
 
-- Currently, I am a Software Engineer at [Andersen Lab](https://andersenlab.com/) working remotely (somewhere in the globe 🌏).
+- Currently, I am a Software Engineer at [Andersen Lab](https://andersenlab.com/) working remotely.
 
 ## 💻 OSS and side projects
 
