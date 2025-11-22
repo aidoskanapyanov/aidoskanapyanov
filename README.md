@@ -60,17 +60,17 @@ The best way it to find me on [Linkedin](https://www.linkedin.com/in/aidos-kanap
 
 <br>
 
-[<img height="40" width="40" src="https://cdn.simpleicons.org/awslambda">](https://docs.aws.amazon.com/lambda/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazons3">](https://docs.aws.amazon.com/s3/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonec2">](https://docs.aws.amazon.com/ec2/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazoneks">](https://docs.aws.amazon.com/eks/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonrds">](https://docs.aws.amazon.com/rds/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonapigateway">](https://docs.aws.amazon.com/apigateway/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonsimpleemailservice">](https://docs.aws.amazon.com/ses/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazoniam">](https://docs.aws.amazon.com/iam/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazonsqs">](https://docs.aws.amazon.com/sqs/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazondynamodb">](https://docs.aws.amazon.com/amazondynamodb/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/amazoncloudwatch">](https://docs.aws.amazon.com/cloudwatch/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/Compute/Lambda.png">](https://docs.aws.amazon.com/lambda/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/Storage/SimpleStorageService.png">](https://docs.aws.amazon.com/s3/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/Compute/EC2.png">](https://docs.aws.amazon.com/ec2/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/Containers/ElasticKubernetesService.png">](https://docs.aws.amazon.com/eks/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/Database/RDS.png">](https://docs.aws.amazon.com/rds/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/ApplicationIntegration/APIGateway.png">](https://docs.aws.amazon.com/apigateway/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/BusinessApplications/SimpleEmailService.png">](https://docs.aws.amazon.com/ses/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png">](https://docs.aws.amazon.com/iam/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/ApplicationIntegration/SimpleQueueService.png">](https://docs.aws.amazon.com/sqs/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/Database/DynamoDB.png">](https://docs.aws.amazon.com/amazondynamodb/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/3ab6f991102f872ad1923589a10a918f7274909d/dist/ManagementGovernance/CloudWatch.png">](https://docs.aws.amazon.com/cloudwatch/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs">](https://nextjs.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/react">](https://reactjs.org/)
 
