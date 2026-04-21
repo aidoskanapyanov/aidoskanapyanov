@@ -2,7 +2,7 @@
   
 ## 🦸‍♂️ About me
 
-I am a Software Engineer with 4+ years of experience, a mathematician at heart, a passionate learner and an open source enthusiast.
+I am a Software Engineer with 6+ years of experience, a mathematician at heart, a passionate learner and an open source enthusiast.
 
 I have in-depth experience working with modern web technologies, backend systems, and API design. My approach to software engineering emphasizes simplicity, scalability, and maintainability.
 
